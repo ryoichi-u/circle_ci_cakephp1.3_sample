@@ -1,2 +1,5 @@
 # circle_ci_cakephp1.3_sample
-# circle_ci_cakephp3.x_sample
+
+これはランサーズエンジニアブログ記事のサンプルコードです
+
+CircleCIで各種チェッカーを行うときのサンプルが記載されています
