@@ -1,0 +1,11 @@
+machine:
+  timezone:
+    Asia/Tokyo
+  php:
+      version: 7.0.4
+
+test:
+  override:
+    - app/tests/php_cs_fixer.sh
+    - app/tests/php_syntax_checker.sh
+    - app/tests/phpmd_checker.sh
